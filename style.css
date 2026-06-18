@@ -1,0 +1,51 @@
+* {
+    box-sizing: border-box;
+    font-family: Arial, sans-serif;
+}
+
+body {
+    background: #f3f4f6;
+    padding: 20px;
+}
+
+h1, h2 {
+    text-align: center;
+}
+
+#horarios {
+    max-width: 900px;
+    margin: auto;
+    background: white;
+    padding: 20px;
+    border-radius: 12px;
+    box-shadow: 0 0 15px #ccc;
+}
+
+.fila {
+    display: grid;
+    grid-template-columns: 90px 1fr;
+    align-items: center;
+    margin: 12px 0;
+}
+
+.nombre {
+    font-weight: bold;
+}
+
+.linea {
+    position: relative;
+    height: 35px;
+    background: #e5e7eb;
+    border-radius: 20px;
+}
+
+.turno {
+    position: absolute;
+    height: 100%;
+    border-radius: 20px;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 12px;
+}
