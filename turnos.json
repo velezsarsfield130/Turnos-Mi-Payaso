@@ -1,5 +1,5 @@
 {
-  "fecha": "Julio de 2026",
+  "fecha": "Agosto de 2026",
   "inicioDia": "08:30",
   "finDia": "20:00",
 
@@ -35,7 +35,8 @@
       "nombre": "Lalo",
       "color": "#ffd43b",
       "turnos": [
-        ["08:30", "17:00"]
+        ["08:30", "12:30"],
+        ["16:00", "20:00"]
       ]
     },
 
