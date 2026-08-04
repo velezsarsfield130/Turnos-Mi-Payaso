@@ -49,6 +49,14 @@
     },
 
     {
+      "nombre": "Emi",
+      "color": "#845ef7",
+      "turnos": [
+        ["12:00", "16:00"]
+      ]
+    },
+
+    {
       "nombre": "Ara",
       "color": "#20c997",
       "turnos": [
